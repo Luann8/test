@@ -1,11 +1,6 @@
-<body>
-    <div class="command">
-        <p>Configure the REPLICATE_API_TOKEN environment variable:</p>
-        <div class="code">$env:REPLICATE_API_TOKEN = "r8_Ermzjxj7q3LOytkrUKHb1XP4MC004bE2uMbm2"</div>
-    </div>
+# Configuração do Ambiente
 
-<div class="command">
-        <p>Run the development server:</p>
-        <div class="code">npm run dev</div>
-    </div>
-</body>
+Para configurar a variável de ambiente `REPLICATE_API_TOKEN`, execute o seguinte comando:
+
+```bash
+$env:REPLICATE_API_TOKEN = "r8_Ermzjxj7q3LOytkrUKHb1XP4MC004bE2uMbm2"
